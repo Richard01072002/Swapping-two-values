@@ -18,7 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-...#Program to swap two values.
+```#Program to swap two values.
 #Developed by: richardson A 
 #RegisterNumber: 23000803
 
@@ -27,7 +27,8 @@ b=input("")
 temp=b
 b=a
 a=temp
-print("Swapped values are:",a,b)...
+print("Swapped values are:",a,b)
+```
 
 
 
