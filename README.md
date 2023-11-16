@@ -35,9 +35,7 @@ print("Swapped values are:",a,b)
 
 ## RESULT:
 
-<img width="1440" alt="Screenshot 2023-09-17 at 11 25 31 AM" src="https://github.com/Richard01072002/Swapping-two-values/assets/141472248/316ff42c-0787-46c1-b64f-d65dbc19bb7d">
-
-
+![image](https://github.com/Richard01072002/Swapping-two-values/assets/141472248/e8390329-7687-4a5f-8284-cf6be065751d)
 
 Thus the swapping of two values are successfully executed
 
